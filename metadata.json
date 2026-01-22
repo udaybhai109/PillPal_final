@@ -1,0 +1,7 @@
+{
+  "name": "PillPal - Smart Medication Assistant",
+  "description": "A sophisticated medication tracking app that uses Gemini AI to scan prescriptions and automatically schedule reminders with high visual fidelity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
